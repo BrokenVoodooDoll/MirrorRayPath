@@ -1,5 +1,5 @@
 # MirrorRayPath
-> *Read this in other languages: :gb: [English](README.md), :ru: [Русский](README.ru.md)*
+> *Read this in other languages: [Русский](README.ru.md)*
 ## Description
 Simple visualization of propagation of rays reflected from a mirror
 
